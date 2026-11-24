@@ -40,6 +40,6 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# chaves supabase
-.env.example
+# keys supabase
 .env.local
+!.env.example
